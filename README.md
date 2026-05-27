@@ -10,25 +10,6 @@ Static website clone of [redex.co.th](https://redex.co.th) for hosting on GitHub
 - **Our Services** (`services.html`) - Service offerings
 - **Contact** (`contact.html`) - Contact information and map
 
-## Hosting on GitHub Pages
-
-1. Create a new repository on GitHub
-2. Push this project to the repository:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit - Redex static website"
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   git push -u origin main
-   ```
-3. Go to **Settings** → **Pages** in your GitHub repository
-4. Under **Source**, select **Deploy from a branch**
-5. Choose **main** branch and **/ (root)** folder
-6. Click **Save**
-
-Your website will be available at: `https://YOUR_USERNAME.github.io/YOUR_REPO/`
-
 ## Technology Stack
 
 - HTML5
